@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tic_tac_toe/ui/playersName.dart';
+import 'package:tic_tac_toe/ui/players_name.dart';
 
 void main() {
   runApp(const MyApp());
